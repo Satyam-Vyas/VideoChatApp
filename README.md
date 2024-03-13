@@ -1,5 +1,5 @@
 
-# Full Stack Whatsapp Clone using React.js, socket.io, Node.js
+# VideoChatApp using React, socket.io, Node.js
 
 ## Installation
 
