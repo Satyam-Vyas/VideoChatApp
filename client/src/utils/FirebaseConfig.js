@@ -2,7 +2,7 @@ import { getAuth } from "firebase/auth";
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCoS2psR9ccFt0ijTR6rzObCctfiShXYlU",
+  apiKey: process.env.FIREBASE_API_KEY,
   authDomain: "video-chat-app-87673.firebaseapp.com",
   projectId: "video-chat-app-87673",
   storageBucket: "video-chat-app-87673.appspot.com",
