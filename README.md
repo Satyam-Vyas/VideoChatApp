@@ -1,5 +1,5 @@
 
-# VideoChatApp using React, socket.io, Node.js
+# VideoChatApp using Next, socket.io, Node.js
 
 ## Installation
 
